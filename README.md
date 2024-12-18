@@ -7,6 +7,7 @@
 
 ## Contact
 - 📫 Email: ogbkiy@gmail.com
+- Telegram: t.me/ishowcode
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://ogabek-portolio.netlify.app)
 
 ## Tech Stack
