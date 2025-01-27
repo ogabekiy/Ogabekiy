@@ -2,12 +2,12 @@
 
 ## About Me
 - 💻 I’m a developer passionate about NestJS,Node JS and React.
-- 🌱 Currently learning: React JS.
+- 🌱 Currently learning: Next JS.
 - 🚀 Working on: different projects.
 
 ## Contact
 - 📫 Email: ogbkiy@gmail.com
-- Telegram: t.me/ishowcode
+- Telegram: http://t.me/ishowcode
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://ogabek-portolio.netlify.app)
 
 ## Tech Stack
