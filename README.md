@@ -1,8 +1,8 @@
 # Hi there, I'm Og'abek 👋
 
 ## About Me
-- 💻 I’m a developer passionate about NestJS,Node JS and React.
-- 🌱 Currently learning: Next JS.
+- 💻 I’m a developer passionate about NestJS,Node JS and React (Next JS).
+- 🌱 Currently looking for a role.
 - 🚀 Working on: different projects.
 
 ## Contact
