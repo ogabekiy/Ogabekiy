@@ -1,7 +1,7 @@
 # Hi there, I'm Og'abek 👋
 
 ## About Me
-- 💻 I’m a developer passionate about NestJS,Node JS and React (Next JS).
+- 💻 I’m a Full-Stack developer passionate about NestJS,Node JS and React (Next JS).
 - 🌱 Currently looking for a role.
 - 🚀 Working on: different projects.
 
@@ -9,6 +9,7 @@
 - 📫 Email: ogbkiy@gmail.com
 - Telegram: https://t.me/ishowcode
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://ogabek-portolio.netlify.app)
+- Instagram: https://www.instagram.com/ogabekpluto/
 
 ## Tech Stack
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
