@@ -1,4 +1,4 @@
-# Hi there, I'm Og'abek 👋
+# Hi there, I'm Og'abek 🥷🏿
 
 ## About Me
 - 💻 I’m a Full-Stack developer passionate about NestJS,Node JS and React (Next JS).
